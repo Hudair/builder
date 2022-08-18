@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-big-xl-download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="xl-download" fill="#FFFFFF">
+            <path d="M19,40 L19,38 L38,38 L38,9.82842712 L30.1715729,2 L12,2 L12,38 L19,38 L19,40 L11.0008717,40 C10.4481055,40 10,39.5446944 10,39.0081969 L10,0.99180311 C10,0.444045377 10.4556644,0 10.9953976,0 L31,0 L40,9 L40,38.9931545 C40,39.5492199 39.5553691,40 38.9991283,40 L19,40 Z" id="File" fill-rule="nonzero"></path>
+            <path d="M7,0 L8,0 L8,40 L7,40 C6.44771525,40 6,39.5522847 6,39 L6,1 C6,0.44771525 6.44771525,1.01453063e-16 7,0 Z" id="Rectangle-3"></path>
+            <path d="M3,0 L4,0 L4,40 L3,40 C2.44771525,40 2,39.5522847 2,39 L2,1 C2,0.44771525 2.44771525,1.01453063e-16 3,0 Z" id="Rectangle-3-Copy"></path>
+            <path d="M25.6568542,26.8284271 L28.8994949,23.5857864 L30.3137085,25 L26.0710678,29.2426407 L24.6568542,30.6568542 L19,25 L20.4142136,23.5857864 L23.6568542,26.8284271 L23.6568542,15 L25.6568542,15 L25.6568542,26.8284271 Z" id="Arrow"></path>
+            <path d="M30,1 L39,10 L30.9975446,10 C30.446616,10 30,9.5536886 30,9.00245535 L30,1 Z" id="Corner"></path>
+        </g>
+    </g>
+</svg>

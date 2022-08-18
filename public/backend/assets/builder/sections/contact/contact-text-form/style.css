@@ -1,0 +1,7 @@
+#contact-text-form .bg {
+	background-image: url('images/gallery/bg-3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	opacity: 0.15;
+}

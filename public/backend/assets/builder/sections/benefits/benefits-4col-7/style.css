@@ -1,0 +1,12 @@
+#benefits-4col-7 .bg-wrap {
+    background-color: #F4F5F6;
+}
+
+
+#benefits-4col-7 .bg {
+    background-image: url('images/gallery/bg-pattern-3.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 50px 50px;
+    opacity:0.075;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>sm-cross</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sm-cross" fill="#FFFFFF">
+            <path d="M5.07106781,3.65685425 L7.72792206,1 L9.14213562,2.41421356 L6.48528137,5.07106781 L9.14213562,7.72792206 L7.72792206,9.14213562 L5.07106781,6.48528137 L2.41421356,9.14213562 L1,7.72792206 L3.65685425,5.07106781 L1,2.41421356 L2.41421356,1 L5.07106781,3.65685425 Z" id="Cross"></path>
+        </g>
+    </g>
+</svg>

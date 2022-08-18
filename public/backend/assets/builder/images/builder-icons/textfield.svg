@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>textfield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="textfield" fill="#FFFFFF">
+            <path d="M0,0.793442488 C0,0.355236302 0.364244461,0 0.793442488,0 L15.2065575,0 C15.6447637,0 16,0.364244461 16,0.793442488 L16,15.2065575 C16,15.6447637 15.6357555,16 15.2065575,16 L0.793442488,16 C0.355236302,16 0,15.6357555 0,15.2065575 L0,0.793442488 Z M2,14 L14,14 L14,2 L2,2 L2,14 Z" id="Square" fill-rule="nonzero"></path>
+            <rect id="Rectangle-11" x="10" y="4" width="2" height="8"></rect>
+        </g>
+    </g>
+</svg>

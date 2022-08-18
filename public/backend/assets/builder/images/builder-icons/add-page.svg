@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>add-page</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-page" fill="#FFFFFF">
+            <polygon id="Combined-Shape" points="11 7 11 4 13 4 13 7 16 7 16 9 13 9 13 12 11 12 11 9 8 9 8 7"></polygon>
+            <path d="M13,2 L3,2 L3,14 L13,14 L13,15 C13,15.5522847 12.5522847,16 12,16 L2,16 C1.44771525,16 1,15.5522847 1,15 L1,1 C1,0.44771525 1.44771525,1.01453063e-16 2,0 L12,0 C12.5522847,-1.01453063e-16 13,0.44771525 13,1 L13,2 Z" id="Rectangle-13" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

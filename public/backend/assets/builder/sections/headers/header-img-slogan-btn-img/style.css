@@ -1,0 +1,11 @@
+#header-img-slogan-btn-img .bg-wrap {
+    background-color: #F2F0ED;
+}
+
+#header-img-slogan-btn-img .bg {
+    background-image: url('images/gallery/bg-pattern-3-primary.png');
+    background-size: 50px 50px;
+    background-repeat: repeat;
+    background-position: right top;
+    opacity: 0.33;
+}

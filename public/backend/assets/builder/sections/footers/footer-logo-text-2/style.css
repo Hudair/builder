@@ -1,0 +1,7 @@
+#footer-logo-text-2 .bg {
+    background-image: url('images/gallery/bg-sign-primary.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: auto;
+    opacity:0.05;
+}

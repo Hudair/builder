@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>redo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="redo" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M18.0004182,8.99958178 C16.1759863,6.57092625 13.2714479,5 10,5 C5.16208418,5 1.1265769,8.43551936 0.200036231,13 L2.25203497,13 C3.14012056,9.54954557 6.27232114,7 10,7 C12.7199463,7 15.1228558,8.35739562 16.5682708,10.4317292 L14,13 L20,13 L20,7 L18.0004182,8.99958178 Z" id="Redo"></path>
+        </g>
+    </g>
+</svg>

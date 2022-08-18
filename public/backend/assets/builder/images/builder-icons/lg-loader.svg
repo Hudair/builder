@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+    <style type="text/css">
+        #loader-path {
+            stroke-dasharray: 40;
+            -webkit-animation: dash 5s linear infinite;
+            animation: dash 5s linear infinite;
+        }
+
+        @-webkit-keyframes dash {
+            to {
+                stroke-dashoffset: 400;
+            }
+        }
+
+        @keyframes dash {
+            to {
+                stroke-dashoffset: 400;
+            }
+        }
+        </style>
+  </defs>
+    <g id="loader" fill="none" fill-rule="evenodd">
+        <path d="M2,2 L2,18 L18,18 L18,2 L2,2 Z M1,0 L19,0 C19.5522847,-1.01453063e-16 20,0.44771525 20,1 L20,19 C20,19.5522847 19.5522847,20 19,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="shape" fill="#444444" fill-rule="nonzero"></path>
+        <path stroke="#00BFFF" stroke-width="2" d="M2,1 L18,1 C18.5522847,1 19,1.44771525 19,2 L19,18 C19,18.5522847 18.5522847,19 18,19 L2,19 C1.44771525,19 1,18.5522847 1,18 L1,2 C1,1.44771525 1.44771525,1 2,1 Z" id="loader-path"></path>
+    </g>
+</svg>

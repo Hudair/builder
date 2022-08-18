@@ -1,0 +1,10 @@
+#sep-bottom-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7 .bg {
+    background-image: url('images/gallery/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}

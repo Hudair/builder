@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tablet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tablet" fill="#FFFFFF">
+            <path d="M2,0.99180311 C2,0.444045377 2.44463086,0 3.00087166,0 L16.9991283,0 C17.5518945,0 18,0.455305576 18,0.99180311 L18,19.0081969 C18,19.5559546 17.5553691,20 16.9991283,20 L3.00087166,20 C2.4481055,20 2,19.5446944 2,19.0081969 L2,0.99180311 Z M4,2 L4,18 L16,18 L16,2 L4,2 Z" id="Tablet"></path>
+            <rect id="Dot" x="9" y="14" width="2" height="2"></rect>
+        </g>
+    </g>
+</svg>

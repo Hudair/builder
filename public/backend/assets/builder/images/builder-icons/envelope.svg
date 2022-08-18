@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="envelope" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.17750446,3 L8,7.77109639 L12.8224955,3 L3.17750446,3 Z M14,4.55228281 L8,10.2289036 L2,4.55228281 L2,13 L14,13 L14,4.55228281 Z M1,1 L15,1 C15.5522847,1 16,1.52233446 16,2.16666667 L16,13.8333333 C16,14.4776655 15.5522847,15 15,15 L1,15 C0.44771525,15 6.76353751e-17,14.4776655 0,13.8333333 L0,2.16666667 C-6.76353751e-17,1.52233446 0.44771525,1 1,1 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

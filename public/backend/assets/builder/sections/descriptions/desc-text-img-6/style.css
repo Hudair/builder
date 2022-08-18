@@ -1,0 +1,11 @@
+#desc-text-img-6 .bg-wrap {
+    background-color: #f4f5f6;
+}
+
+#desc-text-img-6 .bg {
+    background-image: url('images/gallery/bg-pattern-1.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 200px 200px;
+    opacity:0.1;
+}

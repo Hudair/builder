@@ -1,0 +1,7 @@
+#media-icon .bg {
+    background-image: url('images/gallery/bg-21.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.4;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="28px" viewBox="0 0 44 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ftp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ftp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.9990512,26.9999999 L35.9423296,26.9451824 C39.9456054,26.4761804 43,23.0695116 43,19 C43,14.581722 39.418278,11 35,11 C34.8968958,11 34.7940474,11.0019452 34.6914875,11.0058256 L33.869117,11.03694 L33.6803435,10.2359245 C32.414045,4.86268856 27.5963927,1 22,1 C15.6937217,1 10.474534,5.88194476 10.0305207,12.1368902 L9.95553107,13.1932914 L8.9051649,13.0578739 C8.60688799,13.0194188 8.30478454,13 8,13 C4.13400675,13 1,16.1340068 1,20 C1,23.865677 4.133494,26.9994872 7.9990512,26.9999999 Z" id="cloud" stroke="#FFFFFF" stroke-width="2"></path>
+    </g>
+</svg>

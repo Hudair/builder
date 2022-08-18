@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trash" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M5,2 L5,1.0093689 C5,0.451909848 5.45097518,0 5.99077797,0 L10.009222,0 C10.5564136,0 11,0.443353176 11,1.0093689 L11,2 L15,2 L15,4 L14,4 L14,14.8304478 C14,15.4763737 13.4532027,16 12.8055229,16 L3.19447708,16 C2.53478561,16 2,15.4682789 2,14.8304478 L2,4 L1,4 L1,2 L5,2 Z M4,4 L4,14 L12,14 L12,4 L4,4 Z M6,6 L8,6 L8,12 L6,12 L6,6 Z" id="Bin"></path>
+        </g>
+    </g>
+</svg>

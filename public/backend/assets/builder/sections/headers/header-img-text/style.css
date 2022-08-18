@@ -1,0 +1,7 @@
+#header-img-text .bg {
+    background-image: url('images/gallery/bg-20.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.5;
+}

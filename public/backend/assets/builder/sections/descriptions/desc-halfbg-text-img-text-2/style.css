@@ -1,0 +1,7 @@
+#desc-halfbg-text-img-text-2 .bg {
+    background-image: url('images/gallery/bg-sign-secondary.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: auto;
+    opacity: 0.2;
+}

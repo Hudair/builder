@@ -1,0 +1,7 @@
+#action-text-btn-2 .bg {
+    background-image: url('images/gallery/map.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 50% auto;
+    opacity:0.4;
+}

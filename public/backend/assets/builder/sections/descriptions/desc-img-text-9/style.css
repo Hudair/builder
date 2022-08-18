@@ -1,0 +1,7 @@
+#desc-img-text-9 .bg {
+    background-image: url('images/gallery/item-grid-horizontal-3.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.15;
+}

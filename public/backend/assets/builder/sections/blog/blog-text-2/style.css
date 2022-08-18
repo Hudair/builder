@@ -1,0 +1,7 @@
+#blog-text-2 .bg {
+    background-image: url('images/gallery/bg-37.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.15;
+}

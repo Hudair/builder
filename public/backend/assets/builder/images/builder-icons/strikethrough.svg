@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>strikethrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="strikethrough" fill="#FFFFFF">
+            <path d="M9.30685325,8 L8.86147182,6.05859375 C8.81589867,5.85676982 8.71336063,5.35058999 8.55385463,4.54003906 C8.39434862,3.72948813 8.29832094,3.18750137 8.26576869,2.9140625 C8.18113285,3.47396113 8.07371205,4.09081694 7.94350307,4.76464844 C7.84020795,5.29920066 7.60580519,6.37764351 7.24028971,8 L4.73297003,8 L6.45912807,1 L10.0626437,1 L11.7935701,8 L9.30685325,8 Z M10.1821495,12 L12.7826709,12 L13.6075656,15.3359375 L10.9415499,15.3359375 L10.1821495,12 Z M6.33962222,12 L5.58022182,15.3359375 L2.92397182,15.3359375 L3.74659401,12 L6.33962222,12 Z" id="A"></path>
+            <polygon id="Combined-Shape" points="0 9 16 9 16 11 0 11"></polygon>
+        </g>
+    </g>
+</svg>

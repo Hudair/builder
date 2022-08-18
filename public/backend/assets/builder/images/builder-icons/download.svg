@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="28px" viewBox="0 0 44 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,26 L21,23 L6,23 C5.44771525,23 5,22.5522847 5,22 L5,1 C5,0.44771525 5.44771525,0 6,0 L38,0 C38.5522847,0 39,0.44771525 39,1 L39,22 C39,22.5522847 38.5522847,23 38,23 L23,23 L23,26 L31,26 L31,28 L13,28 L13,26 L21,26 Z M7,2 L7,21 L37,21 L37,2 L7,2 Z" id="desktop" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

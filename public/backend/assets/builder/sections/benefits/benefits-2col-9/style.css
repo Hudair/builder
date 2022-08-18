@@ -1,0 +1,10 @@
+#benefits-2col-9 .bg-wrap {
+    background-color: #F2F0ED;
+}
+
+#benefits-2col-9 .bg {
+    background-image: url(./images/gallery/bg-pattern-3-primary.png);
+    background-repeat: repeat;
+    background-size: 50px auto;
+    opacity: 0.25;
+}

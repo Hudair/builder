@@ -1,0 +1,4 @@
+/*! Place your custom styles here */
+button.btn.btn--primary, input[type="submit"].btn.btn--primary{
+    line-height: 3;
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="form" fill="#FFFFFF">
+            <path d="M2,14 L14,14 L14,2 L2,2 L2,14 Z M0,1.00087166 C0,0.448105505 0.444630861,0 1.00087166,0 L14.9991283,0 C15.5518945,0 16,0.444630861 16,1.00087166 L16,14.9991283 C16,15.5518945 15.5553691,16 14.9991283,16 L1.00087166,16 C0.448105505,16 0,15.5553691 0,14.9991283 L0,1.00087166 Z" id="Rectangle" fill-rule="nonzero"></path>
+            <path d="M3,3 L13,3 L13,5 L3,5 L3,3 Z M3,6 L13,6 L13,8 L3,8 L3,6 Z M3,9 L13,9 L13,11 L3,11 L3,9 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

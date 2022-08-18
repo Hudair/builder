@@ -1,0 +1,11 @@
+#desc-text-3 .bg-wrap {
+    background-color: #c5b9aa;
+}
+
+#desc-text-3 .bg {
+    background-image: url('images/gallery/bg-76.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.03;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>undo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="undo" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M1.99958178,8.99958178 C3.82401372,6.57092625 6.72855212,5 10,5 C14.8379158,5 18.8734231,8.43551936 19.7999638,13 L17.747965,13 C16.8598794,9.54954557 13.7276789,7 10,7 C7.28005374,7 4.87714422,8.35739562 3.43172915,10.4317292 L6,13 L-4.99600361e-16,13 L-4.99600361e-16,7 L1.99958178,8.99958178 Z" id="Undo"></path>
+        </g>
+    </g>
+</svg>

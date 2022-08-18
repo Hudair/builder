@@ -1,0 +1,6 @@
+#text-2col-3 .bg {
+    background-image: url('images/gallery/bg-sign.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}

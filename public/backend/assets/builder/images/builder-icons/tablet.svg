@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tablet" fill="#FFFFFF">
+            <path d="M1,1.00087166 C1,0.448105505 1.44994876,0 2.00684547,0 L13.9931545,0 C14.5492199,0 15,0.444630861 15,1.00087166 L15,14.9991283 C15,15.5518945 14.5500512,16 13.9931545,16 L2.00684547,16 C1.45078007,16 1,15.5553691 1,14.9991283 L1,1.00087166 Z M3,2 L3,14 L13,14 L13,2 L3,2 Z" id="Tablet"></path>
+            <rect id="Dot" x="7" y="10" width="2" height="2"></rect>
+        </g>
+    </g>
+</svg>

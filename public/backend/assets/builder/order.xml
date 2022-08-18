@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sections>
+    <navigations name="Navigations">
+        <nav-megamenu-logo-social/>
+        <nav-logo-menu-acc/>
+        <nav-logo-menu/>
+        <nav-list-logo-btn/>
+        <nav-logo-list/>
+        <nav-logo-menu-2/>
+        <nav-logo-menu-btn/>
+        <nav-logo-menu-btn-2/>
+        <nav-logo-menu-social/>
+        <nav-logo-social/>
+        <nav-menu-btn/>
+        <nav-menu-logo/>
+        <nav-menu-logo-menu/>
+        <nav-menu-logo-social/>
+        <nav-menu-social/>
+        <nav-social-list/>
+        <nav-menu/>
+        <nav-menu-full/>
+        <nav-icon-menu/>
+        <nav-logo-megamenu/>
+        <nav-logo-megamenu-btn/>
+        <nav-logo-megamenu-social/>
+        <nav-megamenu-logo-text/>
+        <nav-offcanvas-left/>
+        <nav-offcanvas-right/>
+        <nav-offcanvas-right-2/>
+        <nav-social-logo-offcanvas/>
+        <nav-logo-icon/>
+    </navigations>
+    <headers name="Headers">
+        <header-carousel-4/>
+        <header-modal-text/>
+        <header-text-8/>
+        <header-text/>
+        <header-text-2/>
+        <header-text-3/>
+        <header-text-4/>
+        <header-text-text/>
+        <header-halfbg-text/>
+        <header-textbox-2/>
+        <header-textbox/>
+        <header-img-slogan-btn-img/>
+        <header-text-img/>
+        <header-carousel/>
+        <header-carousel-2/>
+        <header-carousel-3/>
+        <header-img-modal/>
+        <header-img-text/>
+        <header-text-carousel/>
+        <header-text-img-3/>
+        <header-textbox-3/>
+        <header-text-img-2/>
+        <header-timer/>
+        <header-subscribe/>
+        <header-form/>
+        <header-halfbg-form/>
+        <header-halfbg-timer-form/>
+        <header-text-7/>
+        <header-text-halfbg/>
+    </headers>
+    <descriptions name="Descriptions">
+        <desc-img-text-9/>
+        <desc-img-list-3col/>
+        <desc-text-img-7/>
+        <desc-text-halfbg-3/>
+        <desc-halfbg-text-3/>
+        <desc-halfbg-text-img-text/>
+        <desc-text-halfbg-2/>
+        <desc-halfbg-text-2/>
+        <desc-text-halfbg/>
+        <desc-halfbg-text/>
+        <desc-text/>
+        <desc-text-2/>
+        <desc-text-3/>
+        <desc-text-4/>
+        <desc-text-6/>
+        <desc-text-7/>
+        <desc-text-8/>
+        <desc-carousel/>
+        <desc-text-img/>
+        <desc-img-text/>
+        <desc-text-img-img/>
+        <desc-img-img-text/>
+        <desc-img-textbox/>
+        <desc-textbox-img/>
+        <desc-card-text/>
+        <desc-text-card/>
+        <desc-halfbg-text-4/>
+        <desc-text-halfbg-4/>
+        <desc-text-text-img/>
+        <desc-halfbg-text-5/>
+        <desc-halfbg-text-6/>
+        <desc-halfbg-text-7/>
+        <desc-halfbg-text-img-text-2/>
+        <desc-img-text-2/>
+        <desc-img-text-3/>
+        <desc-img-text-4/>
+        <desc-img-text-5/>
+        <desc-img-text-text/>
+        <desc-items-list/>
+        <desc-items-list-2/>
+        <desc-items-list-3/>
+        <desc-list-img/>
+        <desc-text-img-2/>
+        <desc-text-img-3/>
+        <desc-text-img-text/>
+        <desc-single-carousel/>
+        <desc-single-carousel-2/>
+        <desc-accordion/>
+        <desc-tabs/>
+    </descriptions>
+    <benefits name="Benefits">
+        <benefits-2col/>
+        <benefits-3col/>
+        <benefits-3col-3/>
+        <benefits-4col-7/>
+        <benefits-2col-3/>
+        <benefits-3col-2/>
+        <benefits-4col-5/>
+        <benefits-2col-2/>
+        <benefits-3col-9/>
+        <benefits-2col-6/>
+        <benefits-3col-7/>
+        <benefits-4col-4/>
+        <benefits-4col-3/>
+        <benefits-4col-2/>
+        <benefits-4col-6/>
+        <benefits-3col-11/>
+        <benefits-2col-9/>
+        <benefits-3col-12/>
+        <benefits-4col-8/>
+        <benefits-4col-7/>
+        <benefits-3col-5/>
+        <benefits-3col-6/>
+        <benefits-2col-counter-2/>
+        <benefits-3col-counter-3/>
+        <benefits-4col-counter-2/>
+        <benefits-3col-counter/>
+        <benefits-4col-counter/>
+        <benefits-5col-counter/>
+        <benefits-2col-counter/>
+        <benefits-3col-counter-2/>
+        <benefits-4col-counter-3/>
+        <benefits-2col-10/>
+        <benefits-2col-5/>
+        <benefits-2col-7/>
+        <benefits-2col-8/>
+        <benefits-3col-10/>
+        <benefits-3col-8/>
+        <benefits-4col/>
+        <benefits-4col-8/>
+        <benefits-6col-2/>
+        <benefits-2col-4/>
+    </benefits>
+    <text name="Text grid">
+        <text-2col-text-list/>
+        <text-1col/>
+        <text-2col/>
+        <text-3col/>
+        <text-4col/>
+        <text-2col-3/>
+        <text-3col-3/>
+        <text-4col-3/>
+        <text-2col-2/>
+        <text-3col-2/>
+        <text-4col-2/>
+    </text>
+    <galleries name="Galleries">
+        <gallery-2col-filter/>
+        <gallery-3col-filter/>
+        <gallery-4col-filter/>
+        <gallery-2col/>
+        <gallery-3col/>
+        <gallery-3col-3/>
+        <gallery-3col-5/>
+        <gallery-4col-3/>
+        <gallery-5col-2/>
+        <gallery-3col-2/>
+        <gallery-4col-2/>
+        <gallery-5col/>
+        <gallery-2col-2/>
+        <gallery-2col-3/>
+        <gallery-3col-4/>
+        <gallery-4col/>
+    </galleries>
+    <media name="Media"></media>
+    <testimonials name="Testimonials"></testimonials>
+    <clients name="Clients"></clients>
+    <team name="Team"></team>
+    <prices name="Prices"></prices>
+    <charts name="Charts"></charts>
+    <actions name="Actions"></actions>
+    <blog name="Blog"></blog>
+    <subscription name="Subscription"></subscription>
+    <contact name="Contact"></contact>
+    <separators name="Separators">
+        <sep-top-1/>
+        <sep-top-2/>
+        <sep-top-3/>
+        <sep-top-4/>
+        <sep-top-5/>
+        <sep-top-6/>
+        <sep-top-7/>
+        <sep-top-8/>
+        <sep-bottom-1/>
+        <sep-bottom-2/>
+        <sep-bottom-3/>
+        <sep-bottom-4/>
+        <sep-bottom-5/>
+        <sep-bottom-6/>
+        <sep-bottom-7/>
+        <sep-bottom-8/>
+        <sep-bottom-9/>
+        <sep-center-1/>
+        <sep-center-2/>
+        <sep-center-3/>
+        <sep-center-4/>
+        <sep-center-5/>
+    </separators>
+    <inner name="Inner page">
+        <inner-title/>
+        <inner-img/>
+        <inner-img-2/>
+        <inner-carousel/>
+        <inner-carousel-2/>
+        <inner-media/>
+        <inner-text/>
+        <inner-text-2/>
+        <inner-quote/>
+        <inner-list/>
+        <inner-post-sidebar/>
+        <inner-tags/>
+        <inner-share/>
+        <inner-follow/>
+        <inner-follow-2/>
+        <inner-comments/>
+    </inner>
+    <popups name="Modal popups"></popups>
+    <panels name="Modal panels"></panels>
+    <alerts name="Modal alerts"></alerts>
+    <cookies name="Cookie alerts"></cookies>
+    <footers name="Footers">
+        <footer-logo-share/>
+        <footer-logo-social/>
+        <footer-logo-text/>
+        <footer-logo-text-btn/>
+        <footer-logo-text-img/>
+        <footer-text-2/>
+        <footer-img-text/>
+        <footer-logo-text-2/>
+        <footer-text-logo/>
+        <footer-text-logo-share/>
+        <footer-text-logo-social/>
+        <footer-text-logo-text/>
+        <footer-text-logo-text-2/>
+        <footer-social-text/>
+    </footers>
+</sections>
